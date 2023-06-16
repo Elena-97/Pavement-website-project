@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "We are Logo Pavaje",
+    "paragraph": "We offer a full range of services in consultancy, installation and maintenance"
+  },
+  "About": {
+    "paragraph": "Logo Pavaje is paving company known for its expertise in creating visually appealing and durable pavements. Established 10 yars, our company has rapidly grown to become a trusted partner in the industry. We take immense pride in our team of skilled professionals who possess a deep understanding of paving techniques and a passion for craftsmanship.",
+    "Why": [
+      "Planning and project preparation",
+      "Tempor incididunt",
+      "Stripping and site preparation",
+      "Fitting of kerbs"
+    ],
+    "Why2": [
+      "Laying the paving",
+      "Determining material requirements",
+      "Installation of gutters",
+      "Finishing and maintenance."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Central Model",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Alley ",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Model 3D",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Customized models",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Yard",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Modern Model",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Fan model",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Cobble stone",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Abstract pavement",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-pencil-square",
+      "name": "Planning and project preparation",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-chain-broken",
+      "name": "Stripping and site preparation",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-steam-square",
+      "name": "Fitting of kerbs",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": " Laying the paving",
+      "text": "The pavers are installed according to the customer's design and wishes on a level surface.The pavers are installed according to the customer's design and"
+    },
+    {
+      "icon": "fa fa-ticket",
+      "name": "Installation of gutters",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": " Finishing and maintenance",
+      "text": "In the finishing stage, the spaces are filled with kerbs that require cutting, compacting and applying sand between the paving stones, sweeping and cleaning."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Neculai L",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Andrei D",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Alina S",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Daniela I",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Dumbrăveni, Suceava, Romania",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Consultant",
+      "text": "We offer consultancy in design and project design."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Suppliers and quality products",
+      "text": "We have reliable suppliers with varied and quality products"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Qualified and reliable staff",
+      "text": "Qualified, serious and hard-working staff"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Modern projects",
+      "text": "We present and carry out modern and complex projects "
+    }
+  ]
+}
